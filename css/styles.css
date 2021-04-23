@@ -1,6 +1,7 @@
   body
   {
-    background-color: #EAF6F6;
+    background-color: #EAF6F6;  
+    font-family: "Consolas";
   }
 
   hr
@@ -14,10 +15,10 @@
 
   h1
   {
-    color: #66BFBF;
+    color: #364f6b;
   }
 
   h3
   {
-    color: #66BFBF;
+    color: #00adb5;
   }
