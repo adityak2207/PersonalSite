@@ -10,7 +10,7 @@
   body
   {
     background-color: #EAF6F6;  
-    font-family: "Consolas";
+    font-family: 'MyWebFont',"Consolas";
   }
 
   hr
