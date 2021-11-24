@@ -1,24 +1,26 @@
-  body
-  {
-    background-color: #EAF6F6;  
-    font-family: "Consolas";
-  }
+hr
+{
+  border-style: dotted none none none;
+  border-color: darkblue;
+  border-width: 5px;
+  width: 7%;
+}
 
-  hr
-  {
-      border-style: none;
-      border-top-style: dotted;
-      border-top-color: grey;
-      border-width: 5px;
-      width: 5%;
-  }
+body
+{
+  background-color: #cbf1f5;
+  font-family: consolas;
+  font-size: 16px;
+}
 
-  h1
-  {
-    color: #364f6b;
-  }
+h1
+{
+  color: #222831;
+}
 
-  h3
-  {
-    color: #00adb5;
-  }
+.myimg
+{
+  width:250px;
+  height:250px;
+  border-radius: 50%;
+}
